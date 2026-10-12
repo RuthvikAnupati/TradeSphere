@@ -909,8 +909,8 @@ The customer table is displayed after:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/RuthvikAnupati/Customer_CRUD.git
-cd Customer_CRUD
+git clone https://github.com/RuthvikAnupati/TradeSphere.git
+cd TradeSphere
 ```
 
 ---
@@ -947,7 +947,7 @@ server.port=9595
 Replace:
 
 ```text
-YOUR_MYSQL_PASSWORD
+Configure the DB_USERNAME and DB_PASSWORD environment variables with your local MySQL credentials before starting the backend.
 ```
 
 with your local MySQL password.
@@ -1079,7 +1079,7 @@ SPRING_CRUD_PROJECT/
 ## GitHub Repository
 
 ```text
-https://github.com/RuthvikAnupati/Customer_CRUD
+https://github.com/RuthvikAnupati/TradeSphere
 ```
 
 ---
