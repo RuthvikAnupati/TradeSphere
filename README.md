@@ -1,6 +1,6 @@
-# CUST_CRUD – Customer Management System
+# TradeSphere – Business Management Platform
 
-A full-stack **Customer Management System** developed using **Spring Boot, React, MySQL, Spring Security, JWT, and Axios**.
+**TradeSphere** is a full-stack business management platform, currently implemented with a **Customer Management module**, using **Spring Boot, React, MySQL, Spring Security, JWT, and Axios**.
 
 The application provides customer CRUD operations, authentication, role-based authorization, pagination, customer search by ID, and exception handling.
 
@@ -8,18 +8,20 @@ The application provides customer CRUD operations, authentication, role-based au
 
 ## 📌 Project Overview
 
-**CUST_CRUD** is a full-stack web application designed to manage customer information in a centralized system.
+**TradeSphere** is being developed as a centralized platform for dealership operations. Its current implementation focuses on managing customer and dealer records.
 
 The project is based on a dealership scenario where products are supplied to different customers/dealers and their details need to be maintained regularly.
 
 Instead of maintaining records manually, this application provides a centralized system to store, retrieve, update, and manage customer information.
+
+The current scope covers customer record management. Product-supply tracking, billing, and warehouse inventory are planned future enhancements and are not part of the current implementation.
 
 ### User Roles
 
 - **ADMIN** – Can view, add, edit, and delete customer records.
 - **USER** – Can view and search customer records only.
 
-### Project Modules
+### Current Project Modules
 
 - **CUST_CRUD** – Spring Boot Backend
 - **CUST_UI** – React Frontend
@@ -151,7 +153,7 @@ Both modules are maintained in the same GitHub repository.
 # 🏗️ System Architecture
 
 ```text
-                    CUSTOMER MANAGEMENT SYSTEM
+                    TRADESPHERE — BUSINESS MANAGEMENT PLATFORM
                               │
                               ▼
                     ┌─────────────────┐
@@ -1171,7 +1173,7 @@ Since the Git repository is located in the parent folder, Git tracks the fronten
 
 # 📌 Project Highlights
 
-- Full-stack Customer Management System
+- TradeSphere business management platform (current module: Customer Management)
 - Spring Boot REST API
 - React frontend
 - MySQL database
@@ -1223,7 +1225,7 @@ This project provided practical experience with:
 
 # 📜 Conclusion
 
-**CUST_CRUD** demonstrates a complete full-stack Customer Management System by integrating **React, Spring Boot, Spring Security, JWT, JPA/Hibernate, and MySQL**.
+The current **TradeSphere** implementation delivers a full-stack Customer Management module by integrating **React, Spring Boot, Spring Security, JWT, JPA/Hibernate, and MySQL**.
 
 The application provides a centralized way to manage customer records with:
 
@@ -1275,7 +1277,9 @@ React UI
 
 **Ruthvik Reddy Anupati**
 
-**Project:** CUST_CRUD – Customer Management System
+**Project:** TradeSphere – Business Management Platform
+
+**Current Module:** Customer Management
 
 **GitHub:**
 
